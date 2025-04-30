@@ -10,7 +10,7 @@ This repository contains a collection of sucessfully completed coding challenges
 
 ## Completed Katas
 
-### 1. ASCII Hex Converter
+### 1. ASCII Hex Converter (Python)
 
 This is my first challenge on this platform, I wasn't really sure where to start, so I decided to choose an area I am familiar with, hexidecimal.
 
