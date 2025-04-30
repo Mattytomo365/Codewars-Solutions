@@ -17,6 +17,6 @@ This is my first challenge on this platform, I wasn't really sure where to start
 The importance of code efficiency was highlighted to me with this task, as I now recognise that **both** functions could be reduced to only contain a singular line of code.
 
 ### 2. Pernicious Numbers (C#)
-I hadn't coded in c# in a few months, so I took it upon myself to complete my next project in c#. It was challenging and fun to switch language in such a short amount of time.
+I hadn't coded in C# in months, so I decided to challenge myself by completing my next task using C#. It was both challenging and fun to switch languagees in such a short amount of time.
 
-From this task, I learnt alot about the configuration of c# projects, and how files like .csproj are necessary for debug configurations. This prompted me to seek online courses covering this area, allowing me to fill gaps in my knowledge.
+From this task, I learnt alot about the configuration of C# projects, particularly how files like `.csproj` and `launch.json` are essential for debug configurations. This sparked my curiosity, prompting me to explore online resources and research different debug configurations (e.g. C#: Launch Startup Project), different types of projects (e.g. Executable (`.exe`), Library (`.dll`)), and the .NET/.NET Core frameworks.
